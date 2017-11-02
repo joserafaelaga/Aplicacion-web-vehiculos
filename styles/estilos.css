@@ -1,0 +1,55 @@
+a, span{
+	color: black
+}
+
+
+.dropdown-toggle:focus{
+	background-color: red;
+}
+
+.margin_sup{
+	margin-top: 30px;
+}
+
+.rojo{
+	color:red;
+}
+
+table, tr, th, td{
+	padding: 20px;
+}
+
+div.modal-body{
+	height: 470px;
+}
+
+th{
+	background-color: lightblue;
+}
+
+.color{
+	background-color: lightblue;
+	
+}
+
+.color a{
+	color:yellow;
+}
+
+#logo{
+	height: 40px;
+	width: 80px;
+	margin-top: -10px;
+}
+
+/*BOTONES*/
+
+button[type="submit"]{
+	color: black;
+	background-color: lightblue;
+}
+
+button[type="submit"]:hover{
+	color: black;
+	background-color: gray;
+}
